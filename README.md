@@ -18,3 +18,4 @@ You'll find a detailed ingredient list and step-by-step instructions in the reci
 for more detail contact: mrasuli684@gmail.com
 last line changed locally
 ### This is a REMOTE change :O
+![Pancake!](C:/Users/mrasu/student/03/recipe/recipe/recipe.png)
